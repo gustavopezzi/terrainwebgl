@@ -1,5 +1,5 @@
 define([],
-	function() {
-		return document.getElementById('threejs-container');
-	}
+    function() {
+        return document.getElementById('threejs-container');
+    }
 );
